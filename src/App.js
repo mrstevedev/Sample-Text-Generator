@@ -56,6 +56,7 @@ class App extends Component {
       <div className="App container">
       <h1>ReactJS Sample Text Generator</h1>
       <br/>
+      <p>Lorem Ipsum Generator of just Meat or with Lorem Ipsum text.</p>
       <form className="form-inline">
         <div className="form-group">
         <label>Include Ipsum with your meat:</label>
@@ -73,6 +74,8 @@ class App extends Component {
         <Output 
           value={this.state.text}
         />
+                <p>Built with <a href="https://reactjs.org/">ReactJS</a></p>
+
       </div>
     );
   }

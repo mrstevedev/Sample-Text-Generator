@@ -21,6 +21,7 @@ class Text extends React.Component {
             <div>
                 <input 
                     type="number" 
+                    size="2"
                     className="form-control" 
                     value={this.state.value} 
                     onChange={this.onChange.bind(this)} />

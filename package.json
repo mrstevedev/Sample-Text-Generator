@@ -2,7 +2,7 @@
   "name": "sample-text-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrstevedev.github.io/ReactGenerator",
+  "homepage": "https://mrstevedev.github.io/Sample-Text-Generator",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^1.2.0",
